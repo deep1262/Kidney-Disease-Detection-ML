@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Machine Learning for Kidney Disease Detection
 
 ## Overview
